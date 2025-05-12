@@ -1,5 +1,5 @@
 # simple-calculator
-This is a simple calculator app that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built with HTML, CSS, and JavaScript only. No frameworks or libraries are used.
+This is a simple calculator app that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It is built with HTML, CSS, and JavaScript only and it is also a responsive. No frameworks or libraries are used.
 
 # Features
 The calculator has a user-friendly interface with buttons for digits and operators.
