@@ -8,14 +8,14 @@ The calculator can display the current expression and the result on the screen.
 The calculator can clear the all expression or delete the last character with the AC and C buttons respectively.
 The calculator can evaluate the current expression with the = button.
 
-#Technologies used
+# Technologies
 HTML, CSS. JavaScript
 Html used for creating basic structure of calculator, Css gave style to that calculator and javascript used for evaluating the expression.
 
-#instalation
+# Instalation
 To run the calculator app locally, you need to clone this repo and open the index.html file in your browser. Alternatively, you can use a live server extension in your code editor.
 
-#usage
+# Usage
 To use the calculator app, you can either click on the buttons with your mouse or use your keyboard. The keyboard mappings are as follows:
 
 0-9: Digits
